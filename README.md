@@ -18,3 +18,5 @@ Instruções:
 - Consuma o Contexto: Crie um componente NotificationToggle.jsx que consuma o contexto NotificationSettingsContext e permita ao usuário ativar ou desativar as notificações.
 
 - Exiba o Estado: Crie um componente NotificationStatus.jsx que consuma o contexto NotificationSettingsContext e exiba o estado atual das notificações.
+
+### Você pode acessar através do link: https://alessandra1999.github.io/notification-settings-reactjs/
